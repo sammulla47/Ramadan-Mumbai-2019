@@ -6,7 +6,7 @@ Small Web Site Which Informs People When To Break Their Fast During Ramadan.
 ## codeing in 
 HTML CSS JAVASCRIT
 
-##License
+## License
 This project under GNU-GPL 2.0
 
 ## Contributing

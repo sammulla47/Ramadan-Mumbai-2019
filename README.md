@@ -13,3 +13,6 @@ This project under GNU-GPL 2.0
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+### Link To View Website:- 
+https://sammulla47.github.io/Ramadan-Mumbai-2019/
